@@ -3,13 +3,18 @@
 ------ Dummy -----
 ------ Dummy ----- 
 <Redacted> Update for Redmi Note 5 Pro/AI
-Build Date: 29 Mei 2022
+Build Date: 31 Mei 2022
 
 ----- HP -----
-- Ga ada, sama aja
+=/
 
 ------ ROM -------
-- Banyak yang pasti, cek aja sendiri di page Changelog di About 😂
-  Spoiler : Kebanyakan di backend, jadi bukan tambahan fitur, tapi optimalisasi fitur & system
+- core: healthd: Read charger voltage from the actual charger
 
-Mau diupdate silahkan, ngga jg gapapa.
+Notes:
+Coba pake kernel bawaan rom, terus charge dari saat posisi baterai tinggal 10%, 
+ntar cek speed charging di lockscreen brp yak stlh misalnya 10-15 detik ditancepin charger.
+Cek pake charger bawaan whyded, atau maybe kalo punya yg QC 3.0.
+
+Jgn lupa lapor 😝
+
